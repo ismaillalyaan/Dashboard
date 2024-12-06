@@ -27,4 +27,4 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ismaillalyaan/DASHBOARD.git
+   git clone https://github.com/ismaillalyaan/Dashboard.git
